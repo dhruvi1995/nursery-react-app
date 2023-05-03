@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nursery-react-app/static/css/main.e41f0c58.css",
+    "main.js": "/nursery-react-app/static/js/main.2c6afdb2.js",
+    "static/js/787.b701888c.chunk.js": "/nursery-react-app/static/js/787.b701888c.chunk.js",
+    "index.html": "/nursery-react-app/index.html",
+    "main.e41f0c58.css.map": "/nursery-react-app/static/css/main.e41f0c58.css.map",
+    "main.2c6afdb2.js.map": "/nursery-react-app/static/js/main.2c6afdb2.js.map",
+    "787.b701888c.chunk.js.map": "/nursery-react-app/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e41f0c58.css",
+    "static/js/main.2c6afdb2.js"
+  ]
+}
